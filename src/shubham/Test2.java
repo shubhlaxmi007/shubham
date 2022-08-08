@@ -10,5 +10,5 @@ public class Test2 {
 		int m = sc.nextInt();
 		int c = n+m;
 		System.out.print(c);
-	}
+		System.out.println(n);	}
 }
